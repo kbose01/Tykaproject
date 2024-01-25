@@ -1,0 +1,14 @@
+.card img{
+    height: 200px;
+    width: 200px;
+    
+}
+.card p{
+    text-decoration: line-through;
+}
+.card{
+    border: 1px solid #cfbfbe;
+    display:flex;
+    padding: 10px;
+    background-color: #cfbfbe;
+}

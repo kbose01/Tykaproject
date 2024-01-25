@@ -1,0 +1,17 @@
+.navbar-brand img{
+    display: flex;
+    width: 100px;
+}  
+.a li{
+    font-size:large;
+    font-weight: 600;
+ 
+}
+.a li:hover{
+    background-color:grey ;
+   
+}
+.b>ul>li>a{
+    color: #cf3052 !important;
+}
+
